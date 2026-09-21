@@ -18,9 +18,9 @@ export const ASSETS = {
 export const BUSINESS_INFO = {
   name: 'WAL CHAVEIRO',
   tagline: 'SEU PROFISSIONAL DE CONFIANÇA',
-  phone: '(84) 9688-5678',
-  phoneRaw: '558496885678',
-  phoneTel: '+558496885678',
+  phone: '(84) 99688-5678',
+  phoneRaw: '5584996885678',
+  phoneTel: '+5584996885678',
   address: 'R. Alto da Boa Vista, 441',
   neighborhood: 'Ponta Negra, Natal - RN',
   cep: 'CEP 59090-310',

@@ -108,7 +108,7 @@ export const Hero: React.FC = () => {
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-[#f5c400] text-black font-black text-sm uppercase tracking-wider px-6 py-3.5 rounded-full hover:bg-[#ffd21a] hover:-translate-y-0.5 transition-all shadow-lg shadow-[#f5c400]/25"
               >
-                <span>Chamar no WhatsApp (84) 9688-5678</span>
+                <span>Chamar no WhatsApp {BUSINESS_INFO.phone}</span>
                 <ArrowUpRight className="w-4 h-4 stroke-[2.5]" />
               </a>
 
